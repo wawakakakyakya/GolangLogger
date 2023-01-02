@@ -1,0 +1,2 @@
+# myLogger
+logger for golang
